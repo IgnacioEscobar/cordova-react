@@ -12,6 +12,9 @@
     },
     "cordova-plugin-local-notification": {
       "PACKAGE_NAME": "org.apache.cordova.cordovareact"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "org.apache.cordova.cordovareact"
     }
   },
   "dependent_plugins": {
